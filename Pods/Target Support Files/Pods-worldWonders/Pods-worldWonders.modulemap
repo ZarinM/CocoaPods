@@ -1,0 +1,6 @@
+framework module Pods_worldWonders {
+  umbrella header "Pods-worldWonders-umbrella.h"
+
+  export *
+  module * { export * }
+}
